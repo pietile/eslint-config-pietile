@@ -1,2 +1,2 @@
-// Use yourself rules
-module.exports = require("./index");
+// Use own rules
+module.exports = require('./index');
