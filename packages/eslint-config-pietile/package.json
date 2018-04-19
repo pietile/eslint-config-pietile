@@ -9,7 +9,8 @@
   "dependencies": {
     "eslint-config-airbnb": "~16.1.0",
     "eslint-config-pietile-base": "^0.0.6",
-    "eslint-config-prettier": "~2.9.0"
+    "eslint-config-prettier": "~2.9.0",
+    "object.assign": "~4.1.0"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.0",
