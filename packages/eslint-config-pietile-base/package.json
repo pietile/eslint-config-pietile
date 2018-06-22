@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-pietile-base",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "description": "Pietile ESlint config based on Airbnb",
   "main": "index.js",
   "repository": "https://github.com/mxck/eslint-config-pietile",
