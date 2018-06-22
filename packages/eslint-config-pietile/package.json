@@ -7,7 +7,7 @@
   "author": "mxck",
   "license": "MIT",
   "dependencies": {
-    "eslint-config-airbnb": "~16.1.0",
+    "eslint-config-airbnb": "~17.0.0",
     "eslint-config-pietile-base": "^0.0.6",
     "eslint-config-prettier": "~2.9.0",
     "object.assign": "~4.1.0"
