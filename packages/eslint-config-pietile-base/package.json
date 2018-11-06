@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-pietile-base",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Pietile ESlint config based on Airbnb",
   "main": "index.js",
   "repository": "https://github.com/mxck/eslint-config-pietile",
@@ -8,7 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "eslint-config-airbnb-base": "~13.1.0",
-    "eslint-config-prettier": "~3.0.0"
+    "eslint-config-prettier": "~3.1.0"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.0",
